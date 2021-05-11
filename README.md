@@ -8,7 +8,7 @@ Here's a sample of a conversation:
 
 ## Compiling
 
-This project uses the Swift [OpenAI](https://github.com/mattt/OpenAI client by mattt).
+This project uses the Swift OpenAI client by mattt, available at https://github.com/mattt/OpenAI .
 There's a problem with handling platform dependencies and you'll get a ton of errors at first so here's how to fix that until someone has a better solution.
 
 * You'll need to first let the Swift Package Manager do its thing and install OpenAI with its dependencies.
