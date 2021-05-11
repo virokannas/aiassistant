@@ -20,13 +20,15 @@ There's a problem with handling platform dependencies and you'll get a ton of er
         .macOS(.v10_10),
         .tvOS(.v10),
         .watchOS(.v3),
-    ],```
+    ],
+```
 * Right-click on OpenAI in the project window again and click on "Update Package"
 
 ## No API access! Where's the key!
 
 If you don't have a key to access OpenAI, I can't help you. But if you do, there's a pretty self-explanatory line in ViewController.swift:
-```    let ai_key : String = "YOUR_API_KEY_GOES_HERE"
+```
+let ai_key : String = "YOUR_API_KEY_GOES_HERE"
 ```
 
 ## TODO:
