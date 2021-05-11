@@ -15,7 +15,8 @@ There's a problem with handling platform dependencies and you'll get a ton of er
 * Then, you'll need to go to the OpenAI package, right-click on Package.swift, open in Finder
 * Open the Package.swift in TextEdit or similar
 * After the line ```name: "OpenAI",``` add the following:
-```    platforms:  [
+```
+    platforms:  [
         .iOS(.v10),
         .macOS(.v10_10),
         .tvOS(.v10),
