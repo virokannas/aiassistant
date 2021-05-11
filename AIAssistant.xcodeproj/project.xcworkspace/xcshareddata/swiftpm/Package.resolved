@@ -1,0 +1,34 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Alamofire",
+        "repositoryURL": "https://github.com/Alamofire/Alamofire.git",
+        "state": {
+          "branch": null,
+          "revision": "f96b619bcb2383b43d898402283924b80e2c4bae",
+          "version": "5.4.3"
+        }
+      },
+      {
+        "package": "AnyCodable",
+        "repositoryURL": "https://github.com/Flight-School/AnyCodable.git",
+        "state": {
+          "branch": null,
+          "revision": "3e38cd6f639e4919d2d6735ac505412a051a3d28",
+          "version": "0.4.1"
+        }
+      },
+      {
+        "package": "OpenAI",
+        "repositoryURL": "https://github.com/mattt/OpenAI",
+        "state": {
+          "branch": "main",
+          "revision": "d4f13e371ce48853c3f56ee545b8404a55152aa9",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
